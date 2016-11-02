@@ -1,3 +1,5 @@
 this is changes i have made.
 
+This is changes being made by user 2.. on github. 
+
 I have added new content in file 1.
